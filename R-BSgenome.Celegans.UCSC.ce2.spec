@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.3.17
-Release:          1
+Release:          2
 Summary:          Caenorhabditis elegans (Worm) full genome (UCSC version ce2)
 Group:            Sciences/Mathematics
 License:          Artistic-2.0
