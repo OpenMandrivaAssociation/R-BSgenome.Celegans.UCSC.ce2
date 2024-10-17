@@ -7,7 +7,7 @@ Release:          1
 Summary:          Caenorhabditis elegans (Worm) full genome (UCSC version ce2)
 Group:            Sciences/Mathematics
 License:          Artistic-2.0
-URL:              http://bioconductor.org/packages/release/data/annotation/html/%{packname}.html
+URL:              https://bioconductor.org/packages/release/data/annotation/html/%{packname}.html
 Source0:          http://bioconductor.org/packages/release/data/annotation/src/contrib/BSgenome.Celegans.UCSC.ce2_1.3.19.tar.gz
 BuildArch:        noarch
 Requires:         R-core
